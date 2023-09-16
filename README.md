@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.7 °C</td><td>17.8 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>15.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.2 °C</td><td>14.7 °C</td><td>14.8 °C</td><td>14.5 °C</td><td>14.5 °C</td><td>16.6 °C</td><td>19.5 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>21 °C</td><td>20.1 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>17.6 °C</td><td>17.2 °C</td>
+        <td>16.7 °C</td><td>17.2 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>15.6 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.2 °C</td><td>14.7 °C</td><td>14.8 °C</td><td>14.5 °C</td><td>14.5 °C</td><td>16.6 °C</td><td>19.5 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>21 °C</td><td>20.1 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>17.6 °C</td><td>17.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2023-09-16T04:08:43Z*
+*Updated at: 2023-09-16T04:18:33Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

@@ -44,3 +44,9 @@ git branch -M main
 git remote add origin git@github.com:coding-to-music/github-actions-cron-readme-weather-api.git
 git push -u origin main
 ```
+
+## signup for a free Weatherapi.com account
+
+https://www.weatherapi.com/signup.aspx
+
+Put Repo secrets WEATHER_API_KEY={weatherapi.com API secret goes here}

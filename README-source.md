@@ -136,3 +136,29 @@ Now, your GitHub Actions workflow should be able to use the specific release ver
 
 README.md.template
 ```
+
+## Changes to the template for F temp
+
+Removed C temp and replaced with F temp
+
+File `handler/collector/template/daily-forcast.md.template`
+
+```java
+
+# Temperature
+            <td>{{ $weather.MinTempC }} -  {{ $weather.MaxTempC}} °C</td>
+
+# Wind
+            <td>{{ $weather.AvgWindKph}} kph</td>
+```
+
+File `handler/collector/template/hourly-forcast.md.template`
+
+```java
+
+# Temperature
+            <td>{{ $weather.AvgTempC}} °C</td>
+
+# Wind
+            <td>{{ $weather.AvgWindKph}} kph</td>
+```

@@ -98,3 +98,33 @@ go version
 It should display the Go version you downloaded and installed.
 
 That's it! You've successfully installed Go from the tar.gz archive on your Linux system. You can now start using Go for your development projects.
+
+## To create a release for your GitHub repository and assign a version number to it, follow these steps:
+
+Navigate to Your Repository: Go to the GitHub repository where you want to create a release.
+
+Click on the "Releases" Tab: On the repository's main page, click on the "Releases" tab, usually located between "Code" and "Packages."
+
+Create a New Release:
+
+a. Click on the "Draft a new release" button or "Create a new release" if you don't see the "Draft a new release" button.
+
+b. Fill in the release information:
+
+Tag version: This is where you specify the version number. It's common to use semantic versioning (e.g., "v1.0.0"). Make sure it matches the version your actions are looking for.
+
+Release title: You can give your release a descriptive title.
+
+Description: Provide release notes or any relevant information about the changes in this release.
+
+Attach binaries (optional): If you have any files, such as compiled binaries or artifacts, that you want to associate with this release, you can attach them here.
+
+c. When you're ready, click the "Publish release" button.
+
+Publish the Release: Once you publish the release, it will be available for others to see in the "Releases" section of your repository.
+
+Update Your Workflow: If your GitHub Actions workflow is looking for a specific version, you will need to update the workflow configuration (usually in a YAML file) to reference the new release version. Make sure the workflow uses the correct tag/version number you just created.
+
+Commit and Push Changes: After updating your workflow file, commit the changes to your repository and push them to GitHub. This will trigger your workflow with the new release version.
+
+Now, your GitHub Actions workflow should be able to use the specific release version you've created. Remember to update the version reference in your workflow whenever you create a new release with a new version number.

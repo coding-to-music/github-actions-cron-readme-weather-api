@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-weather:
+  fetch-weather-and-update-readme:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:

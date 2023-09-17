@@ -6,12 +6,13 @@ import (
 	_ "embed"
 	"errors"
 	"fmt"
-	"github.com/huantt/weather-forecast/model"
-	"github.com/huantt/weather-forecast/pkg/errs"
 	"html/template"
 	"log/slog"
 	"os"
 	"time"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/model"
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/pkg/errs"
 )
 
 type Collector struct {

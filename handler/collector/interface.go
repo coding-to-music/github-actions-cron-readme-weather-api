@@ -2,7 +2,8 @@ package collector
 
 import (
 	"context"
-	"github.com/huantt/weather-forecast/model"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/model"
 )
 
 type WeatherService interface {

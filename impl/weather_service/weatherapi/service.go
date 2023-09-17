@@ -2,11 +2,12 @@ package weatherapi
 
 import (
 	"context"
-	"github.com/huantt/weather-forecast/model"
-	"github.com/huantt/weather-forecast/pkg/utils"
-	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
 	"strings"
 	"time"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/model"
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/pkg/utils"
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/pkg/weatherapi_com"
 )
 
 type WeatherService struct {

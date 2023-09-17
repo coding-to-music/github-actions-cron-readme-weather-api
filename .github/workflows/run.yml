@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: huantt/weather-forecast@v1.0.5
+        uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.5
         with:
           city: Boston
           days: 7

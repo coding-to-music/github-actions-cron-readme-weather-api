@@ -1,4 +1,4 @@
-module github.com/huantt/weather-forecast
+module github.com/coding-to-music/github-actions-cron-readme-weather-api
 
 go 1.21
 

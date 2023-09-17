@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/huantt/weather-forecast/cmd"
-	"github.com/spf13/cobra"
 	"log/slog"
 	"os"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/cmd"
+	"github.com/spf13/cobra"
 )
 
 func main() {

@@ -4,9 +4,10 @@ import (
 	_ "embed"
 	"encoding/json"
 	"fmt"
-	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/pkg/weatherapi_com"
+	"github.com/stretchr/testify/assert"
 )
 
 //go:embed testdata/forecast.json

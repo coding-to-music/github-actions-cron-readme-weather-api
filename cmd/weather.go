@@ -2,12 +2,13 @@ package cmd
 
 import (
 	"context"
-	"github.com/huantt/weather-forecast/handler/collector"
-	"github.com/huantt/weather-forecast/impl/weather_service/weatherapi"
-	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
-	"github.com/spf13/cobra"
 	"log/slog"
 	"os"
+
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/handler/collector"
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/impl/weather_service/weatherapi"
+	"github.com/coding-to-music/github-actions-cron-readme-weather-api/pkg/weatherapi_com"
+	"github.com/spf13/cobra"
 )
 
 func UpdateWeather(use string) *cobra.Command {

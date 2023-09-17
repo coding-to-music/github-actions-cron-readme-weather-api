@@ -128,3 +128,11 @@ Update Your Workflow: If your GitHub Actions workflow is looking for a specific 
 Commit and Push Changes: After updating your workflow file, commit the changes to your repository and push them to GitHub. This will trigger your workflow with the new release version.
 
 Now, your GitHub Actions workflow should be able to use the specific release version you've created. Remember to update the version reference in your workflow whenever you create a new release with a new version number.
+
+## Modify two files to utilize the specific package number each time a new release is created
+
+```java
+.github/workflows/run.yml
+
+README.md.template
+```

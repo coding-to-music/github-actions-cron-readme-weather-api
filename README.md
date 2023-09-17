@@ -25,59 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>0 °F</td>
-            <td>16.7 °C</td><td>0 °F</td>
-            <td>17.2 °C</td><td>0 °F</td>
-            <td>15.9 °C</td><td>0 °F</td>
-            <td>15.5 °C</td><td>0 °F</td>
-            <td>15.1 °C</td><td>0 °F</td>
-            <td>14.6 °C</td><td>0 °F</td>
-            <td>14.2 °C</td><td>0 °F</td>
-            <td>14 °C</td><td>0 °F</td>
-            <td>14.9 °C</td><td>0 °F</td>
-            <td>16.6 °C</td><td>0 °F</td>
-            <td>18.5 °C</td><td>0 °F</td>
-            <td>21.5 °C</td><td>0 °F</td>
-            <td>23.5 °C</td><td>0 °F</td>
-            <td>25 °C</td><td>0 °F</td>
-            <td>23.6 °C</td><td>0 °F</td>
-            <td>24.4 °C</td><td>0 °F</td>
-            <td>26.4 °C</td><td>0 °F</td>
-            <td>23.7 °C</td><td>0 °F</td>
-            <td>25.3 °C</td><td>0 °F</td>
-            <td>24.8 °C</td><td>0 °F</td>
-            <td>21.3 °C</td><td>0 °F</td>
-            <td>19.2 °C</td><td>0 °F</td>
-            <td>18.3 °C</td><td>0 °F</td>
-            <td>19.5 °C</td>
+        <td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td><td>0 °F</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>0 mph</td>
-            <td>17.6 kph</td><td>0 mph</td>
-            <td>25.9 kph</td><td>0 mph</td>
-            <td>14.8 kph</td><td>0 mph</td>
-            <td>15.5 kph</td><td>0 mph</td>
-            <td>15.8 kph</td><td>0 mph</td>
-            <td>15.5 kph</td><td>0 mph</td>
-            <td>13.7 kph</td><td>0 mph</td>
-            <td>11.9 kph</td><td>0 mph</td>
-            <td>11.9 kph</td><td>0 mph</td>
-            <td>12.6 kph</td><td>0 mph</td>
-            <td>12.2 kph</td><td>0 mph</td>
-            <td>11.9 kph</td><td>0 mph</td>
-            <td>10.8 kph</td><td>0 mph</td>
-            <td>10.8 kph</td><td>0 mph</td>
-            <td>11.9 kph</td><td>0 mph</td>
-            <td>12.6 kph</td><td>0 mph</td>
-            <td>11.5 kph</td><td>0 mph</td>
-            <td>10.8 kph</td><td>0 mph</td>
-            <td>8.6 kph</td><td>0 mph</td>
-            <td>9.4 kph</td><td>0 mph</td>
-            <td>9 kph</td><td>0 mph</td>
-            <td>8.6 kph</td><td>0 mph</td>
-            <td>7.6 kph</td><td>0 mph</td>
-            <td>8.3 kph</td>
+        <td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td>
     </tr>
 </table>
 
@@ -100,30 +52,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>0 -  0 °F</td>
-            <td>14 -  26.4 °C</td><td>0 -  0 °F</td>
-            <td>15.9 -  17.7 °C</td><td>0 -  0 °F</td>
-            <td>13.5 -  22.7 °C</td><td>0 -  0 °F</td>
-            <td>10.7 -  20.9 °C</td><td>0 -  0 °F</td>
-            <td>11.2 -  19.8 °C</td><td>0 -  0 °F</td>
-            <td>11.7 -  19.1 °C</td><td>0 -  0 °F</td>
-            <td>12.5 -  22.1 °C</td>
+        <td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td><td>0 -  0 °F</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>0 mph</td>
-            <td>17.6 kph</td><td>0 mph</td>
-            <td>14 kph</td><td>0 mph</td>
-            <td>23 kph</td><td>0 mph</td>
-            <td>14 kph</td><td>0 mph</td>
-            <td>11.2 kph</td><td>0 mph</td>
-            <td>11.9 kph</td><td>0 mph</td>
-            <td>16.6 kph</td>
+        <td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td><td>0 mph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-17T05:41:43Z*
+*Updated at: 2023-09-17T05:44:16Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
@@ -174,7 +112,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.1
+              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.2
               with:
                 city: HaNoi
                 days: 7

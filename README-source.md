@@ -50,3 +50,51 @@ git push -u origin main
 https://www.weatherapi.com/signup.aspx
 
 Put Repo secrets WEATHER_API_KEY={weatherapi.com API secret goes here}
+
+## Install latest Go version
+
+Latest downloads are available here:
+
+https://go.dev/dl/
+
+```java
+wget https://go.dev/dl/go1.21.1.linux-amd64.tar.gz
+```
+
+### Extract the Archive:
+
+Use the tar command to extract the contents of the downloaded archive. Replace "your-username" with your actual username:
+
+```java
+sudo tar -C /usr/local -xzf go1.21.1.linux-amd64.tar.gz
+```
+
+This command will extract the Go files into the /usr/local directory.
+
+### Set Go Environment Variables:
+
+You need to set Go's environment variables so that your system knows where to find the Go binaries. Add the following lines to your shell profile file (e.g., ~/.bashrc, ~/.zshrc, or ~/.profile), replacing "your-username" with your actual username if necessary:
+
+```java
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+```
+
+### After adding these lines, run the following command to apply the changes immediately to your current session:
+
+```java
+source ~/.bashrc  # or ~/.zshrc, or the appropriate file for your shell
+```
+
+### Verify the Installation:
+
+After setting the environment variables, you can verify the installation by running:
+
+```java
+go version
+```
+
+It should display the Go version you downloaded and installed.
+
+That's it! You've successfully installed Go from the tar.gz archive on your Linux system. You can now start using Go for your development projects.

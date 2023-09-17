@@ -66,7 +66,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.0
+              uses: coding-to-music/github-actions-cron-readme-weather-api@v1.0.1
               with:
                 city: HaNoi
                 days: 7

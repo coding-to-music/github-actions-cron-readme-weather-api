@@ -3,7 +3,9 @@ on:
   schedule:
     - cron: "15 * * * *"
   workflow_dispatch:
-
+  push:
+    branches:
+      - main
 jobs:
   fetch-weather-and-update-readme:
     permissions: write-all

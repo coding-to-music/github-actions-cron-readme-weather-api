@@ -1,11 +1,11 @@
 ## Today's Weather
 <div align="center">
 
-`Boston, United States of America - 27/09/2023`
+`Boston, United States of America - 28/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
-Fog
+Overcast
 
 </div>
 
@@ -17,11 +17,11 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Mist</td><td width="200px">Partly cloudy</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Light rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -40,15 +40,15 @@ Fog
 <table>
     <tr>
         <th>Date</th>
-        <td>27/09/2023</td><td>28/09/2023</td><td>29/09/2023</td><td>30/09/2023</td><td>01/10/2023</td><td>02/10/2023</td><td>03/10/2023</td>
+        <td>28/09/2023</td><td>29/09/2023</td><td>30/09/2023</td><td>01/10/2023</td><td>02/10/2023</td><td>03/10/2023</td><td>04/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Overcast</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Overcast</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -61,7 +61,7 @@ Fog
 </table>
 
 
-*Updated at: 2023-09-29T03:19:21Z*
+*Updated at: 2023-09-29T04:21:08Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

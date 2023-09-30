@@ -3,9 +3,9 @@
 
 `Boston, United States of America - 29/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain possible
+Moderate rain
 
 </div>
 
@@ -44,11 +44,11 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td>
+        <td width="200px">Moderate rain</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -61,7 +61,7 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-09-30T10:19:42Z*
+*Updated at: 2023-09-30T11:16:41Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

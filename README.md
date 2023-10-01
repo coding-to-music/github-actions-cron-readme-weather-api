@@ -3,9 +3,9 @@
 
 `Boston, United States of America - 30/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
-Fog
+Partly cloudy
 
 </div>
 
@@ -44,11 +44,11 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -61,7 +61,7 @@ Fog
 </table>
 
 
-*Updated at: 2023-10-01T04:20:35Z*
+*Updated at: 2023-10-01T05:19:11Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

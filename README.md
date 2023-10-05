@@ -61,7 +61,7 @@ Mist
 </table>
 
 
-*Updated at: 2023-10-05T10:20:51Z*
+*Updated at: 2023-10-05T11:17:45Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

@@ -3,9 +3,9 @@
 
 `Boston, United States of America - 04/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
 
-Partly cloudy
+Mist
 
 </div>
 
@@ -44,11 +44,11 @@ Partly cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
+        <td width="200px">Mist</td><td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -61,7 +61,7 @@ Partly cloudy
 </table>
 
 
-*Updated at: 2023-10-05T04:20:42Z*
+*Updated at: 2023-10-05T05:19:49Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>

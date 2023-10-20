@@ -44,11 +44,11 @@ Overcast
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Overcast</td><td width="200px">Heavy rain</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2023-10-20T05:19:30Z*
+*Updated at: 2023-10-20T06:21:18Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
